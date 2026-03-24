@@ -2,12 +2,12 @@
   "header": {
     "title": "Enactus FST Tanger",
     "subtitle": "Entrepreneurial Action Paving the Way to a Better World",
-    "logo": "/images/logo.png"
+    "logo": "images/logo.png"
   },
   "about": {
     "title": "Notre Mission",
     "description": "<p>L'objectif d'Enactus FSTT est de former des étudiants leaders capables de créer un impact positif durable à travers l'entrepreneuriat social.</p><p>Enactus est une communauté internationale d'étudiants, de leaders académiques et professionnels engagés pour créer un monde meilleur à travers l'action entrepreneuriale.</p>",
-    "image": "/images/about.jpg",
+    "image": "images/about.jpg",
     "stats": [
       { "number": "50+",   "label": "Membres Actifs" },
       { "number": "11",    "label": "Projets en Cours" },
@@ -87,56 +87,56 @@
     {
       "name": "Yasmine Benamara",
       "role": "Team Leader",
-      "image": "/images/team/Team_Leader.jpg",
+      "image": "images/team/Team_Leader.jpg",
       "linkedin": "https://www.linkedin.com/in/yasmine-benamara-086b002b0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3ByiYGkl4cTPyEFknLfMh3qg%3D%3D",
       "order": 1
     },
     {
       "name": "Abir Stitou",
       "role": "Vice Team Leader",
-      "image": "/images/team/Vice_Team_Leader.jpg",
+      "image": "images/team/Vice_Team_Leader.jpg",
       "linkedin": "",
       "order": 2
     },
     {
       "name": "Mohamed El-Idrissi",
       "role": "Secrétaire Général",
-      "image": "/images/team/Secrétaire_Général.jpg",
+      "image": "images/team/Secrétaire_Général.jpg",
       "linkedin": "",
       "order": 3
     },
     {
       "name": "Khadija Mazar",
       "role": "Responsable RH",
-      "image": "/images/team/Responsable_RH.jpg",
+      "image": "images/team/Responsable_RH.jpg",
       "linkedin": "",
       "order": 4
     },
     {
       "name": "Nada Homirat",
       "role": "Responsable Financier",
-      "image": "/images/team/Responsable_Financier.jpg",
+      "image": "images/team/Responsable_Financier.jpg",
       "linkedin": "",
       "order": 5
     },
     {
       "name": "Taoufik Bassiti",
       "role": "Responsable des Projets",
-      "image": "/images/team/Responsable_des_Projets.jpg",
+      "image": "images/team/Responsable_des_Projets.jpg",
       "linkedin": "",
       "order": 6
     },
      {
       "name": "Soulaimane Mekkaoui",
       "role": "Responsable Communication & Média",
-      "image": "/images/PLACEHOLDER-avatar.webp",
+      "image": "images/PLACEHOLDER-avatar.webp",
       "linkedin": "",
       "order": 7
     },
     {
       "name": "Raid El Khalouki",
       "role": "Responsable des Événements",
-      "image": "/images/team/Responsable_des_Événements.jpg",
+      "image": "images/team/Responsable_des_Événements.jpg",
       "linkedin": "",
       "order": 8
     }
@@ -151,47 +151,47 @@
   ],
   "gallery": [
     {
-      "image": "/images/gallery/photo-8.jpg",
+      "image": "images/gallery/photo-8.jpg",
       "caption": "Équipe Enactus FSTT 2025",
       "date": "2025-03-10"
     },
     {
-      "image": "/images/gallery/photo-3.jpg",
+      "image": "images/gallery/photo-3.jpg",
       "caption": "CEREMONIE D'OUVERTURE ENACTUS FSTT 2025",
       "date": "2025-03-09"
     },
     {
-      "image": "/images/gallery/photo-7.jpg",
+      "image": "images/gallery/photo-7.jpg",
       "caption": "",
       "date": "2025-03-08"
     },
     {
-      "image": "/images/gallery/photo-5.jpg",
+      "image": "images/gallery/photo-5.jpg",
       "caption": "",
       "date": "2025-03-07"
     },
     {
-      "image": "/images/gallery/photo-4.jpg",
+      "image": "images/gallery/photo-4.jpg",
       "caption": "Remise des Prix",
       "date": "2025-03-06"
     },
     {
-      "image": "/images/gallery/photo-1.jpg",
+      "image": "images/gallery/photo-1.jpg",
       "caption": "Hackathon Entrepreneuriat 2025",
       "date": "2025-03-05"
     },
     {
-      "image": "/images/gallery/photo-6.jpg",
+      "image": "images/gallery/photo-6.jpg",
       "caption": "",
       "date": "2025-03-04"
     },
     {
-      "image": "/images/gallery/photo-9.jpg",
+      "image": "images/gallery/photo-9.jpg",
       "caption": "",
       "date": "2025-03-03"
     },
     {
-      "image": "/images/gallery/photo-10.jpg",
+      "image": "images/gallery/photo-10.jpg",
       "caption": "",
       "date": "2025-03-02"
     }

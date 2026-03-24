@@ -18,7 +18,7 @@ const defaultData = {
         stats: [
             { number: "50+",   label: "Membres Actifs" },
             { number: "11",    label: "Projets en Cours" },
-            { number: "1000+", label: "Vies Impactées" }
+            { number: "100+", label: "Vies Impactées" }
         ]
     },
     team:    [],

@@ -1,0 +1,221 @@
+{
+  "header": {
+    "title": "Enactus FST Tanger",
+    "subtitle": "Entrepreneurial Action Paving the Way to a Better World",
+    "logo": "/images/logo.png"
+  },
+  "about": {
+    "title": "Notre Mission",
+    "description": "<p>L'objectif d'Enactus FSTT est de former des étudiants leaders capables de créer un impact positif durable à travers l'entrepreneuriat social.</p><p>Enactus est une communauté internationale d'étudiants, de leaders académiques et professionnels engagés pour créer un monde meilleur à travers l'action entrepreneuriale.</p>",
+    "image": "/images/about.jpg",
+    "stats": [
+      { "number": "50+",   "label": "Membres Actifs" },
+      { "number": "11",    "label": "Projets en Cours" },
+      { "number": "1000+", "label": "Vies Impactées" }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Académie Digital d'Artisanat",
+      "description": "Plateforme connectant artisans et visiteurs autour de cours d'artisanat et de produits authentiques, avec un espace de vente en ligne.",
+      "image": "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Mrabet Basma",
+      "date": "2025-01-11"
+    },
+    {
+      "title": "Tranquillo",
+      "description": "Panneaux acoustiques naturels et décoratifs fabriqués à partir de laine Hanbel, réduisant jusqu'à 40% les nuisances sonores.",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Charaf Eddine Ifrinchaou",
+      "date": "2025-01-10"
+    },
+   
+   
+    {
+      "title": "Boxuline",
+      "description": "Boîte portable pour diabétiques maintenant l'insuline à 2–8°C en déplacement, avec un compartiment aliments pour les cas d'hypoglycémie.",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Yasmine Benamara",
+      "date": "2025-01-07"
+    },
+    {
+      "title": "Organic Wax",
+      "description": "Wax de surf 100% biodégradable fabriquée à partir de composants naturels pour remplacer les produits pétrochimiques polluants.",
+      "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Hnia Akhouayri",
+      "date": "2025-01-06"
+    },
+    {
+      "title": "Water Wind",
+      "description": "Projet innovant en développement par l'équipe Enactus FSTT.",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Omar Ouahabi",
+      "date": "2025-01-05"
+    },
+    
+    {
+      "title": "Flamme d'Eden",
+      "description": "Bougie naturelle et écologique aux huiles essentielles qui repousse les moustiques, purifie l'air et crée une ambiance relaxante.",
+      "image": "https://images.unsplash.com/photo-1608181831718-c9bbe5619f3f?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Khadija Mazar",
+      "date": "2025-01-03"
+    },
+    {
+      "title": "Aurora Vision",
+      "description": "Lunettes intelligentes équipées de caméras, capteurs et IA détectant en temps réel obstacles et lieux pour guider les personnes malvoyantes.",
+      "image": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Nada Homirat",
+      "date": "2025-01-02"
+    },
+    {
+      "title": "Mini Map of the Old Medina",
+      "description": "Carte papier et application mobile de la médina de Tanger indiquant sites historiques, itinéraires, commerces, cafés et restaurants.",
+      "image": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?w=600&auto=format&fit=crop&q=80",
+      "status": "En cours",
+      "chef": "Sara Harzouk",
+      "date": "2025-01-01"
+    }
+  ],
+  "team": [
+    {
+      "name": "Yasmine Benamara",
+      "role": "Team Leader",
+      "image": "/images/team/Team_Leader.jpg",
+      "linkedin": "https://www.linkedin.com/in/yasmine-benamara-086b002b0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3ByiYGkl4cTPyEFknLfMh3qg%3D%3D",
+      "order": 1
+    },
+    {
+      "name": "Abir Stitou",
+      "role": "Vice Team Leader",
+      "image": "/images/team/Vice_Team_Leader.jpg",
+      "linkedin": "",
+      "order": 2
+    },
+    {
+      "name": "Mohamed El-Idrissi",
+      "role": "Secrétaire Général",
+      "image": "/images/team/Secrétaire_Général.jpg",
+      "linkedin": "",
+      "order": 3
+    },
+    {
+      "name": "Khadija Mazar",
+      "role": "Responsable RH",
+      "image": "/images/team/Responsable_RH.jpg",
+      "linkedin": "",
+      "order": 4
+    },
+    {
+      "name": "Nada Homirat",
+      "role": "Responsable Financier",
+      "image": "/images/team/Responsable_Financier.jpg",
+      "linkedin": "",
+      "order": 5
+    },
+    {
+      "name": "Taoufik Bassiti",
+      "role": "Responsable des Projets",
+      "image": "/images/team/Responsable_des_Projets.jpg",
+      "linkedin": "",
+      "order": 6
+    },
+     {
+      "name": "Soulaimane Mekkaoui",
+      "role": "Responsable Communication & Média",
+      "image": "/images/PLACEHOLDER-avatar.webp",
+      "linkedin": "",
+      "order": 7
+    },
+    {
+      "name": "Raid El Khalouki",
+      "role": "Responsable des Événements",
+      "image": "/images/team/Responsable_des_Événements.jpg",
+      "linkedin": "",
+      "order": 8
+    }
+  ],
+  "events": [
+    {
+      "title": "Gen-E — The Next Generation of Entrepreneurs",
+      "date": "2026-04-28T09:00:00",
+      "description": "La conférence annuelle d'Enactus FST Tanger dédiée à l'entrepreneuriat étudiant. Une journée unique rassemblant speakers inspirants, sponsors et étudiants entrepreneurs de toute la région de Tanger.",
+      "link": "https://gene.enactusfstt.com"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "/images/gallery/photo-8.jpg",
+      "caption": "Équipe Enactus FSTT 2025",
+      "date": "2025-03-10"
+    },
+    {
+      "image": "/images/gallery/photo-3.jpg",
+      "caption": "CEREMONIE D'OUVERTURE ENACTUS FSTT 2025",
+      "date": "2025-03-09"
+    },
+    {
+      "image": "/images/gallery/photo-7.jpg",
+      "caption": "",
+      "date": "2025-03-08"
+    },
+    {
+      "image": "/images/gallery/photo-5.jpg",
+      "caption": "",
+      "date": "2025-03-07"
+    },
+    {
+      "image": "/images/gallery/photo-4.jpg",
+      "caption": "Remise des Prix",
+      "date": "2025-03-06"
+    },
+    {
+      "image": "/images/gallery/photo-1.jpg",
+      "caption": "Hackathon Entrepreneuriat 2025",
+      "date": "2025-03-05"
+    },
+    {
+      "image": "/images/gallery/photo-6.jpg",
+      "caption": "",
+      "date": "2025-03-04"
+    },
+    {
+      "image": "/images/gallery/photo-9.jpg",
+      "caption": "",
+      "date": "2025-03-03"
+    },
+    {
+      "image": "/images/gallery/photo-10.jpg",
+      "caption": "",
+      "date": "2025-03-02"
+    }
+  ],
+  "contact": {
+    "email": "enactusfsttanger@gmail.com",
+    "address": "Faculté des Sciences et Techniques de Tanger<br>BP 416, Tanger, Maroc",
+    "social": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/enactusfstt/",
+        "icon": "<i class=\"fab fa-instagram\"></i>"
+      },
+      {
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@enactusfsttanger/",
+        "icon": "<i class=\"fab fa-tiktok\"></i>"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/company/enactusfsttanger/",
+        "icon": "<i class=\"fab fa-linkedin-in\"></i>"
+      }
+    
+    ]
+  }
+}

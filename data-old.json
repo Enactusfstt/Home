@@ -1,0 +1,195 @@
+{
+  "header": {
+    "title": "Enactus FST Tanger",
+    "subtitle": "Entrepreneurial Action Paving the Way to a Better World",
+    "logo": "images/logo.png"
+  },
+  "about": {
+    "title": "Notre Mission",
+    "description": "<p>L'objectif d'Enactus FSTT est de former des étudiants leaders capables de créer un impact positif durable à travers l'entrepreneuriat social.</p><p>Enactus est une communauté internationale d'étudiants, de leaders académiques et professionnels engagés pour créer un monde meilleur à travers l'action entrepreneuriale.</p>",
+    "image": "images/about.jpg",
+    "stats": [
+      { "number": "50+",   "label": "Membres Actifs" },
+      { "number": "11",    "label": "Projets en Cours" },
+      { "number": "1000+", "label": "Vies Impactées" }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Académie Digital d'Artisanat",
+      "description": "Plateforme connectant artisans et visiteurs autour de cours d'artisanat et de produits authentiques, avec un espace de vente en ligne pour les artisans.",
+      "image": "images/projects/academie-digital.jpg",
+      "status": "En cours",
+      "chef": "Mrabet Basma",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Tranquillo",
+      "description": "Panneaux acoustiques naturels et décoratifs fabriqués à partir de laine Hanbel traditionnelle, réduisant jusqu'à 40% les nuisances sonores.",
+      "image": "images/projects/tranquillo.jpg",
+      "status": "En cours",
+      "chef": "Charaf Eddine Ifrinchaou",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Savon Saveur",
+      "description": "Réinventer le savon beldi traditionnel en y ajoutant de nouveaux arômes naturels pour séduire les jeunes tout en préservant l'identité cosmétique marocaine.",
+      "image": "images/projects/savon-saveur.jpg",
+      "status": "En cours",
+      "chef": "Abdelghafour Bounakhla",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Maroctus",
+      "description": "Marque marocaine alliant authenticité et mode moderne, rapprochant les jeunes de leur héritage tout en redonnant aux artisans leur place sur le marché.",
+      "image": "images/projects/maroctus.jpg",
+      "status": "En cours",
+      "chef": "Ayoub Outaghza",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Boxuline",
+      "description": "Boîte portable pour diabétiques maintenant l'insuline à 2–8°C en déplacement, avec un compartiment aliments pour les cas d'hypoglycémie.",
+      "image": "images/projects/boxuline.jpg",
+      "status": "En cours",
+      "chef": "Yasmine Benamara",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Organic Wax",
+      "description": "Wax de surf 100% biodégradable fabriquée à partir de composants naturels pour remplacer les produits pétrochimiques polluants utilisés par 95% des surfeurs.",
+      "image": "images/projects/organic-wax.jpg",
+      "status": "En cours",
+      "chef": "Hnia Akhouayri",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Water Wind",
+      "description": "Projet innovant en développement par l'équipe Enactus FSTT.",
+      "image": "images/projects/water-wind.jpg",
+      "status": "En cours",
+      "chef": "Omar Ouahabi",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Recart",
+      "description": "Projet innovant en développement par l'équipe Enactus FSTT.",
+      "image": "images/projects/recart.jpg",
+      "status": "En cours",
+      "chef": "Yassir Ouahabi",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Flamme d'Eden",
+      "description": "Bougie naturelle et écologique aux huiles essentielles qui repousse les moustiques, purifie l'air et crée une ambiance relaxante avec 2 à 3 heures d'efficacité.",
+      "image": "images/projects/flamme-eden.jpg",
+      "status": "En cours",
+      "chef": "Khadija Mazar",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Aurora Vision",
+      "description": "Lunettes intelligentes équipées de caméras, capteurs et IA détectant en temps réel obstacles et lieux pour guider les personnes malvoyantes via alertes vocales.",
+      "image": "images/projects/aurora-vision.jpg",
+      "status": "En cours",
+      "chef": "Nada Homirat",
+      "date": "2025-01-01"
+    },
+    {
+      "title": "Mini Map of the Old Medina",
+      "description": "Carte papier et application mobile de la médina de Tanger indiquant sites historiques, itinéraires, commerces, cafés et restaurants pour les visiteurs.",
+      "image": "images/projects/mini-map.jpg",
+      "status": "En cours",
+      "chef": "Sara Harzouk",
+      "date": "2025-01-01"
+    }
+  ],
+  "team": [
+    {
+      "name": "Yasmine Benamara",
+      "role": "Team Leader",
+      "image": "images/team/Team_Leader.jpg",
+      "linkedin": "https://www.linkedin.com/in/yasmine-benamara-086b002b0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3ByiYGkl4cTPyEFknLfMh3qg%3D%3D",
+      "order": 1
+    },
+    {
+      "name": "Abir Stitou",
+      "role": "Vice Team Leader",
+      "image": "images/team/Vice_Team_Leader.jpg",
+      "linkedin": "https://www.linkedin.com/in/abir-stitou-6a8142261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3ByiYGkl4cTPyEFknLfMh3qg%3D%3D",
+      "order": 2
+    },
+    {
+      "name": "Mohamed El-Idrissi",
+      "role": "Secrétaire Général",
+      "image": "images/team/mohamed-elidrissi.jpg",
+      "linkedin": "https://www.linkedin.com/in/mohamed-el-idrissi-el-bouzaidi/",
+      "order": 3
+    },
+    {
+      "name": "Khadija Mazar",
+      "role": "Responsable RH",
+      "image": "images/team/khadija-mazar.jpg",
+      "linkedin": "",
+      "order": 4
+    },
+    {
+      "name": "Ismail Chamar",
+      "role": "Responsable Financier",
+      "image": "images/team/ismail-chamar.jpg",
+      "linkedin": "",
+      "order": 5
+    },
+    {
+      "name": "Taoufik Bassiti",
+      "role": "Responsable des Projets",
+      "image": "images/team/taoufik-bassiti.jpg",
+      "linkedin": "",
+      "order": 6
+    },
+    {
+      "name": "Raid El Khalouki",
+      "role": "Responsable des Événements",
+      "image": "images/team/raid-elkhalouki.jpg",
+      "linkedin": "",
+      "order": 7
+    },
+    {
+      "name": "Soulaimane Mekkaoui",
+      "role": "Responsable Communication & Média",
+      "image": "images/team/soulaimane-mekkaoui.jpg",
+      "linkedin": "",
+      "order": 8
+    }
+  ],
+  "events": [],
+
+  "gallery": [
+    { "image": "images/gallery/photo-1.jpg",  "caption": "Hackathon 2025",  "date": "2025-01-01" },
+    { "image": "images/gallery/photo-2.jpg",  "caption": "Gen-E 2025",      "date": "2025-01-02" },
+    { "image": "images/gallery/photo-3.jpg",  "caption": "Gen-E 2025",      "date": "2025-01-03" },
+    { "image": "images/gallery/photo-4.jpg",  "caption": "Workshop",        "date": "2025-01-04" },
+    { "image": "images/gallery/photo-5.jpg",  "caption": "Networking",      "date": "2025-01-05" },
+    { "image": "images/gallery/photo-6.jpg",  "caption": "Équipe",          "date": "2025-01-06" },
+    { "image": "images/gallery/photo-7.jpg",  "caption": "Compétition",     "date": "2025-01-07" },
+    { "image": "images/gallery/photo-8.jpg",  "caption": "Formation",       "date": "2025-01-08" },
+    { "image": "images/gallery/photo-9.jpg",  "caption": "Événement",       "date": "2025-01-09" }
+  ],
+
+  "contact": {
+    "email": "enactusfsttanger@gmail.com",
+    "address": "Faculté des Sciences et Techniques de Tanger<br>BP 416, Tanger, Maroc",
+    "social": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/enactusfstt/",
+        "icon": "<i class=\"fab fa-instagram\"></i>"
+      },
+      {
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@enactusfsttanger/",
+        "icon": "<i class=\"fab fa-tiktok\"></i>"
+      }
+    ]
+  }
+}

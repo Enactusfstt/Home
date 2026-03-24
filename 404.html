@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Page introuvable | Enactus FST Tanger</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- TODO: replace href with your real favicon path -->
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: #0D0D0D;
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 24px;
+            overflow: hidden;
+        }
+
+        /* Background decorative circles */
+        body::before, body::after {
+            content: '';
+            position: fixed;
+            border-radius: 50%;
+            border: 1px solid rgba(255,201,20,0.07);
+            background: rgba(255,201,20,0.03);
+            pointer-events: none;
+        }
+        body::before { width: 600px; height: 600px; top: -200px; right: -150px; }
+        body::after  { width: 400px; height: 400px; bottom: -100px; left: -100px; }
+
+        .logo {
+            height: 56px;
+            width: auto;
+            margin-bottom: 48px;
+            /* white logo on dark bg */
+            filter: brightness(0) invert(1);
+            opacity: 0.85;
+        }
+
+        .code {
+            font-size: clamp(6rem, 20vw, 10rem);
+            font-weight: 800;
+            line-height: 1;
+            color: transparent;
+            -webkit-text-stroke: 2px rgba(255,201,20,0.5);
+            letter-spacing: -4px;
+            margin-bottom: 8px;
+            animation: pulse 3s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { -webkit-text-stroke-color: rgba(255,201,20,0.5); }
+            50%       { -webkit-text-stroke-color: rgba(255,201,20,0.9); }
+        }
+
+        .title {
+            font-size: clamp(1.2rem, 3vw, 1.8rem);
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 14px;
+        }
+
+        .subtitle {
+            font-size: 0.92rem;
+            color: rgba(255,255,255,0.45);
+            max-width: 380px;
+            line-height: 1.7;
+            margin-bottom: 40px;
+        }
+
+        .btn-home {
+            display: inline-block;
+            padding: 14px 36px;
+            background: #FFC914;
+            color: #000;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.25s ease, transform 0.25s ease;
+        }
+
+        .btn-home:hover {
+            background: #D4A800;
+            transform: translateY(-2px);
+        }
+
+        .links {
+            display: flex;
+            gap: 28px;
+            margin-top: 48px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .links a {
+            color: rgba(255,255,255,0.35);
+            font-size: 0.8rem;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .links a:hover { color: #FFC914; }
+
+        @media (max-width: 480px) {
+            .code { letter-spacing: -2px; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- TODO: replace with your real logo -->
+    <img src="images/logo.png" alt="Enactus FST Tanger" class="logo"
+         onerror="this.style.display='none'">
+
+    <div class="code">404</div>
+    <h1 class="title">Page introuvable</h1>
+    <p class="subtitle">La page que vous cherchez n'existe pas ou a été déplacée. Revenez à l'accueil.</p>
+
+    <a href="index.html" class="btn-home">Retour à l'accueil</a>
+
+    <nav class="links">
+        <a href="index.html#about">À Propos</a>
+        <a href="index.html#projects">Projets</a>
+        <a href="index.html#team">Équipe</a>
+        <a href="index.html#contact">Contact</a>
+    </nav>
+
+</body>
+</html>

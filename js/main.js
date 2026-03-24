@@ -2,7 +2,7 @@
 // Enactus FST Tanger — main.js
 // ===============================
 
-const PLACEHOLDER = '/images/placeholder.webp';
+const PLACEHOLDER = 'images/placeholder.webp';
 const GALLERY_PREVIEW = 7;
 
 const defaultData = {
@@ -14,7 +14,7 @@ const defaultData = {
         title: "Notre Mission",
         description: `<p>L'objectif d'Enactus FSTT est de former des étudiants leaders capables de créer un impact positif durable à travers l'entrepreneuriat social.</p>
         <p>Enactus est une communauté internationale d'étudiants, de leaders académiques et professionnels engagés pour créer un monde meilleur à travers l'action entrepreneuriale.</p>`,
-        image: "/images/about.jpg",
+        image: "images/about.jpg",
         stats: [
             { number: "50+",   label: "Membres Actifs" },
             { number: "11",    label: "Projets en Cours" },
